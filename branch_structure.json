@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "ci-cd",
+    "fix/2952-escrow-withdraw-refund",
+    "issue-2",
+    "issue-4",
+    "issue-6",
+    "logo",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "ci-cd": "main",
+    "fix/2952-escrow-withdraw-refund": "main",
+    "issue-2": "main",
+    "issue-4": "main",
+    "issue-6": "main",
+    "logo": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "ci-cd",
+    "fix/2952-escrow-withdraw-refund",
+    "issue-2",
+    "issue-4",
+    "issue-6",
+    "logo",
+    "origin"
+  ]
+}
